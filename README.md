@@ -72,12 +72,12 @@ The project covers the complete development cycle: hardware assembly, sensor int
 
 ## Results
 
-> File: `results.mp4'
+> File: `results.webm'
 
 ## How to Run
 ### Setup
 > Clone the Repository
    ```bash
-git clone https://github.com/your-username/Line-following-Robot.git
+git clone https://github.com/yashdodiya9/Line-following-Robot.git
 
 cd Line-following-Robot.git
